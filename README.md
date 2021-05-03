@@ -19,9 +19,9 @@ The key three differences between the statistical analysis performed on Decemebe
 
 - June had a larger number of temperature readings in relation to December.
 - The minimum temperature was 8 degrees lower in December (56 degrees) than Junes temperature of 64 degrees.
-- The mean temperatures were within 3 degrees of each other which is favourable.
+- The mean temperatures were within 3 degrees of each other, which is favourable.
 
 ## Summary
 
-In summation the target location for the ice cream surf shop is favourable based on the limited temperature variances being as they are generally always in a favourable range.  Additional information that could be included in this analysis would be to perform precipitation queries and to analyses other weather factors such as day length and wind speeds.
+In summation, the target location for the ice cream surf shop is ideal; the limited temperature variances are generally always in a favourable range.  Additional information that could be included in this analysis would be to perform precipitation queries and to analyse other weather factors such as uv index and wind speeds.
 
